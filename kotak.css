@@ -1,0 +1,15 @@
+body {
+    height: 100%;
+    width: 100vh;
+}
+
+.kotak {
+    position: absolute;
+    /* display: flex; */
+    height: 100px;
+    width: 100px;
+    background: blue;
+    /* margin: 20%; */
+    top: 300px;
+    right: 670px;
+}
